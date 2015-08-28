@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sq",
+				"sqlite_db"
+			],
+			[
+				"d",
+				"distribution_from_array"
+			],
+			[
+				"be",
+				"best_l"
+			],
+			[
+				"boo",
+				"bootstrap"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"flo",
+				"follow_redirects"
+			],
+			[
+				"crea",
+				"create_user"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"ass",
+				"assertIn"
+			],
+			[
+				"as",
+				"assertIn"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"fo",
+				"follow_redirects"
+			],
+			[
+				"fl",
+				"follow_redirects"
+			],
+			[
+				"asse",
+				"assertIn"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"TE",
+				"TEST_DB"
+			],
+			[
+				"I",
+				"IntegrityError"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"poste",
+				"posted_date"
+			],
+			[
+				"pos",
+				"posted_date"
+			],
+			[
+				"lo",
+				"logged_in"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"v",
+				"validate_on_submit"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"Pas",
+				"PasswordField"
+			],
+			[
+				"Pa",
+				"PasswordField"
+			],
+			[
+				"Date",
+				"DataRequired"
+			],
+			[
+				"St",
+				"StringField"
+			],
+			[
+				"c",
+				"Column"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"DA",
+				"DATABASE_PATH"
+			],
+			[
+				"fi",
+				"filter_by"
+			],
+			[
+				"Da",
+				"DataRequired"
+			],
+			[
+				"D",
+				"DataRequired"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"connect",
+				"connect_db"
+			],
+			[
+				"conn",
+				"connect_db"
+			],
+			[
+				"in",
+				"in_file"
+			],
+			[
+				"in_",
+				"in_file_name"
+			],
+			[
+				"roc",
+				"roc_auc"
+			],
+			[
+				"con",
+				"conMatTest"
+			],
+			[
+				"yT",
+				"yTest"
+			],
+			[
+				"pre",
+				"predict"
+			],
+			[
+				"confu",
+				"confusionMatTrain"
+			],
+			[
+				"co",
+				"connectionist-bench"
+			],
+			[
+				"tr",
+				"trainingPredictions"
+			],
+			[
+				"ro",
+				"rocksVMinesModel"
+			],
+			[
+				"li",
+				"linear_model"
+			],
+			[
+				"x",
+				"xTest"
+			],
+			[
+				"xL",
+				"xListTest"
+			],
+			[
+				"xl",
+				"xListTrain"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"pr",
+				"predicted"
+			],
+			[
+				"is_",
+				"is_superfluous"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bloggy_project/settings.py",
+			"settings":
+			{
+				"buffer_size": 2065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from django.db import models\n\nclass Post(models.Model):\n	created_at = models.DateTimeField(auto_now_add=True)\n	title = models.CharField(max_length=100)\n	content = models.TextField()\n\n	",
+			"file": "blog/models.py",
+			"file_size": 57,
+			"file_write_time": 1440721727000000,
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/matt/realpython/create_virtualenv.txt",
+		"/home/matt/realpython/flasktaskr/requirements.txt",
+		"/home/matt/realpython/flasktaskr/static/js/jquerymin.js",
+		"/home/matt/realpython/flasktaskr/views.py",
+		"/home/matt/realpython/flasktaskr/templates/tasks.html",
+		"/home/matt/realpython/flasktaskr/forms.py",
+		"/home/matt/realpython/flasktaskr/models.py",
+		"/home/matt/realpython/flasktaskr/_config.py",
+		"/home/matt/realpython/flasktaskr/test.py",
+		"/var/www/html/bootstrap3/part1/index.html",
+		"/home/matt/realpython/flasktaskr/db_create.py",
+		"/home/matt/realpython/flasktaskr/templates/register.html",
+		"/home/matt/realpython/flasktaskr/templates/login.html",
+		"/home/matt/realpython/flasktaskr/db_migrate.py",
+		"/home/matt/realpython/flasktaskr/env/lib/python2.7/site-packages/flask/app.py",
+		"/home/matt/realpython/flasktaskr/env/lib/python2.7/site-packages/flask/templating.py",
+		"/home/matt/realpython/flasktaskr/env/lib/python2.7/site-packages/flask/globals.py",
+		"/home/matt/realpython/flasktaskr/env/lib/python2.7/site-packages/flask/__init__.py",
+		"/home/matt/realpython/flask-hello-world/app.py",
+		"/home/matt/realpython/flasktaskr/create_db.py",
+		"/home/matt/realpython/real-python-test/requirments.txt",
+		"/home/matt/realpython/real-python-test/README.md",
+		"/home/matt/realpython/real-python-test/env/pip-selfcheck.json",
+		"/home/matt/glpkfiles/glpk-4.35/examples/mplsamp1.c",
+		"/home/matt/realpython/flasktaskr/templates/_base.html",
+		"/home/matt/matrix/optimal_tradeoff.py",
+		"/home/matt/matrix/pred_anly/confusion_matrix.py",
+		"/home/matt/realpython/RealPythonPart1-Beta-v8/_READ_THIS_FIRST.txt",
+		"/home/matt/realpython/files/book1-exercises/Course materials/Chapter 12/Practice files/Output-Pride and Predjudice.txt",
+		"/home/matt/realpython/files/book1-exercises/Course materials/Chapter 12/Practice files/gypsy.py",
+		"/home/matt/realpython/files/book1-exercises/Course materials/Chapter 12/Assignment solutions/cover_the_emperor.py",
+		"/home/matt/realpython/files/book1-exercises/Course materials/Chapter 12/Assignment solutions/cover_the_emperor.phy",
+		"/home/matt/realpython/_READ_THIS_FIRST.txt",
+		"/var/log/mongod.log",
+		"/var/log/mongodb/mongod.log",
+		"/tmp/age-height.txt",
+		"/home/matt/matrix/cancer_data.py",
+		"/home/matt/matrix/vec.py",
+		"/home/matt/matrix/mat.py",
+		"/home/matt/matrix/submit_machine_learning_lab.py",
+		"/home/matt/matrix/hw6.py",
+		"/home/matt/matrix/echelon.py",
+		"/home/matt/matrix/machine_learning_lab.py",
+		"/home/matt/Desktop/Untitled Document",
+		"/home/matt/glpkfiles/glpk-4.35/src/glplpx01.c",
+		"/home/matt/glpkfiles/glpk-4.35/src/glpapi17.c",
+		"/home/matt/glpkfiles/glpk-4.35/src/glpapi01.c",
+		"/home/matt/matrix/train.data",
+		"/home/matt/glpkfiles/glpk-4.35/src/glpspx01.c",
+		"/home/matt/glpkfiles/knapsack.mod",
+		"/usr/share/applications/sublime.desktop",
+		"/usr/share/applications.defaults.list",
+		"/usr/share/applications/defaults.list",
+		"/home/matt/glpkfiles/glpk-4.35/src/glpapi14.c",
+		"/home/matt/Downloads/skmeans/R/skmeans.R",
+		"/home/matt/matrix/matutil.py",
+		"/home/matt/tst/hello.c",
+		"/home/matt/hello.c",
+		"/home/matt/glpk-4.55/examples/sample.c",
+		"/home/matt/matrix/plotting.py",
+		"/home/matt/matrix/geometry_lab.py",
+		"/home/matt/matrix/fix2.py",
+		"/home/matt/matrix/hw4.py",
+		"/var/www/html/index.html",
+		"/home/matt/soth.txt",
+		"/home/matt/matrix/geometry_lab.p",
+		"/home/matt/mat.py",
+		"/home/matt/matrix/vecutil.py",
+		"/home/matt/matrix/solver.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"render_",
+			"render_html",
+			"gedit.desktop",
+			"translation",
+			"labels"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bloggy_project/settings.py",
+					"settings":
+					{
+						"buffer_size": 2065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1755,
+								1755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/models.py",
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
